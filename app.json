@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "saathealth_care4care-test",
+    "slug": "saathealth_care4care-test",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "host.exp.exponen"
+    },
+    "android": {
+      "package": "host.saathealth.care4care"
+    }
+  },
+  "iOS": {
+    "bundleIdentifier": "com.example.saathealth-test",
+    "buildNumber": "1.0.0"
+  },
+  "android": {
+    "package": "com.example.saathealth_care4care-demo",
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#FFFFFF"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This is done as part of assessment of saathealth recruitment.",
+    "githubUrl": "https://github.com/jaikumarkaushil/saathealth_care4care_demo"
+  }
+}

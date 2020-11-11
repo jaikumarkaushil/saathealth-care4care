@@ -1,0 +1,6 @@
+module Pods_saathealthcare4caretest {
+  umbrella header "Pods-saathealthcare4caretest-umbrella.h"
+
+  export *
+  module * { export * }
+}
